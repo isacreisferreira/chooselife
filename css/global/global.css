@@ -1,0 +1,22 @@
+body, h1,h2,h3,h4,ul,li,a,p {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.header > h1{
+  font-size: 50px;
+  color: #4B0082;
+  cursor: pointer;
+  font-weight: 400;
+  transition: .1s;
+}
+
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}

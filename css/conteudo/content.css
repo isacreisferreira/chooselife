@@ -1,0 +1,29 @@
+.grid p{
+  color: #111;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.grid h1{
+  font-size: 50px;
+  color: #4B0082;
+  font-weight: 400;
+}
+
+.grid{
+  max-width: 500px;
+  padding-top: 120px;
+}
+
+.btn{
+  color: #fff;
+  border-radius: 4px;
+  padding: 15px 20px;
+  background: #4B0082;
+}
+
+.botao{
+  padding-top: 30px;
+
+}
+

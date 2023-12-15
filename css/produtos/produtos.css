@@ -1,0 +1,29 @@
+.produtos {
+  padding-top: 120px;
+}
+
+.produtos-content{
+  display: flex;
+  gap: 120px;
+  font-size: 20px;
+  padding: 100px;
+}
+
+.produto-item{
+  background-color: #4B0082;
+  color: #fff;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+.produto-item a{
+  background: none;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 15px 20px;
+}
+
+.btn-button{
+  display: flex;
+  padding-top: 30px;
+}
